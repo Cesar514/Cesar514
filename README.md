@@ -6,19 +6,19 @@
 
 EDIT -->
 
+**February 4, 2023**
+- Flutter Projects
+- Robotics ROS Projects **COMPLETED**
+- Started working on Motion Studies with Eye Tracking
+
 **March 11, 2022**
-- Finished multiple Unity Courses.
-- Completed e-Reader with Neural Networks.
-- Finished designing some characters.
-- Started working on a new project.
-- Started changes to the website.
+- Unity Projects **COMPLETED**
+- Neural Networks E-Reader **COMPLETED**
+- Changes to the Website **COMPLETED**
 
 **June 11, 2021**
-_Learning how to use Ubuntu 20.04 correctly_
-Objectives
-- Use of ROS and Gazebo
-- Python Programming for Computer Vision
-- Changes to Website
+- Python Programming for Computer Vision **COMPLETED**
+- Changes to Website **COMPLETED**
 
 <!---
 Cesar514/Cesar514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
