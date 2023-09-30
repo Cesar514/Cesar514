@@ -1,15 +1,22 @@
 - 👋 Hi, I’m @Cesar514
+- I'm currently doing a PhD in Robotics
+- 🌱 I'm a Computational Neuroscientist, and a Mechatronics Engineer
 - 👀 I’m interested in Augemented Reality, Virtual Reality, AI, Automation, Electronics, Education, the Brain and Dreams
-- 🌱 I’m currently learning more about Neural Networks, Cognition, Consciousness, and Computer Vision
 - 💞️ I’m looking to work on projects that'll help humanity develop and solve some of its problems
 - 📫 You can contact me on c14alan@gmail.com
 
 EDIT -->
 
+**September 30, 2023**
+- Robotics with Human Eye guided movements **COMPLETED**
+- Predictions and Estimations of LIBs RUL **COMPLETED**
+- Segmentation and Variable Autonomy for Robotics Disassembly Task **COMPLETED**
+- Started PhD
+
 **February 4, 2023**
-- Flutter Projects
+- Flutter Projects **COMPLETED**
 - Robotics ROS Projects **COMPLETED**
-- Started working on Motion Studies with Eye Tracking
+- Motion Studies with Eye Tracking **COMPLETED**
 
 **March 11, 2022**
 - Unity Projects **COMPLETED**
