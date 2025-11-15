@@ -1,33 +1,11 @@
-- 👋 Hi, I’m @Cesar514
-- I'm currently doing a PhD in Robotics
-- 🌱 I'm a Computational Neuroscientist, and a Mechatronics Engineer
-- 👀 I’m interested in Augemented Reality, Virtual Reality, AI, Automation, Electronics, Education, the Brain and Dreams
-- 💞️ I’m looking to work on projects that'll help humanity develop and solve some of its problems
-- 📫 You can contact me on c14alan@gmail.com
+# Hi, I’m Cesar (@Cesar514)
 
-EDIT -->
+I build robots and algorithms for places where humans should not have to go. I am a PhD researcher in robotics working on nuclear decommissioning, variable autonomy, and shared control for mobile manipulators. Most of my work lives at the intersection of human decision making and robot precision: how to let a human stay in the loop, while the robot handles as much of the risk and complexity as possible.
 
-**September 30, 2023**
-- Robotics with Human Eye guided movements **COMPLETED**
-- Predictions and Estimations of LIBs RUL **COMPLETED**
-- Segmentation and Variable Autonomy for Robotics Disassembly Task **COMPLETED**
-- Started PhD
+My background is in Mechatronics Engineering and in Computational Neuroscience & Cognitive Robotics, so I tend to think about robots the way I think about brains: as systems that perceive, predict, and act under uncertainty. I work on intent prediction, teleoperation, and mobile manipulation, often with AR/VR interfaces and 3D reconstruction, to help operators work naturally in hazardous or constrained environments.
 
-**February 4, 2023**
-- Flutter Projects **COMPLETED**
-- Robotics ROS Projects **COMPLETED**
-- Motion Studies with Eye Tracking **COMPLETED**
+I am interested in augmented and virtual reality, AI, automation, electronics, human–robot interaction, the brain, and dreams. The projects you will find in this profile range from ROS and ROS 2 stacks for mobile manipulators, to perception and intent-prediction pipelines in Python, to experiments in Unity, Flutter, and other tools I use to explore new interfaces between humans and machines.
 
-**March 11, 2022**
-- Unity Projects **COMPLETED**
-- Neural Networks E-Reader **COMPLETED**
-- Changes to the Website **COMPLETED**
+At the core, I care about building systems that help humanity solve real problems rather than just produce demos. If you are working on something that moves in the physical world, augments human capability, or pushes how we think about control and autonomy, I would be happy to talk.
 
-**June 11, 2021**
-- Python Programming for Computer Vision **COMPLETED**
-- Changes to Website **COMPLETED**
-
-<!---
-Cesar514/Cesar514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can find a bit more about me at <https://cesar514.com>, or reach me directly at **c14alan@gmail.com**.
